@@ -1,0 +1,25 @@
+{
+  "name": "simplewebserver",
+  "version": "1.0.0",
+  "description": "Demo of Node.js with simple web server.",
+  "main": "./src/app.js",
+  "scripts": {
+    "start": "node ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ColinPelkmans/SimpleWebServer.git"
+  },
+  "keywords": [
+    "simple",
+    "web",
+    "server"
+  ],
+  "author": "Colin Pelkmans",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ColinPelkmans/SimpleWebServer/issues"
+  },
+  "homepage": "https://github.com/ColinPelkmans/SimpleWebServer#readme"
+}
